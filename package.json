@@ -1,0 +1,18 @@
+{
+  "name": "com.coledev.captionforge",
+  "version": "0.1.0",
+  "displayName": "Caption Forge",
+  "description": "Tool for creating Srt (SubRip Subtitle) files from Audioclips.",
+  "unity": "6000.0.32",
+  "dependencies": 
+  {
+	  "com.unity.editorcoroutines": "1.0.0"
+  },
+  "author": {
+    "name": "Cole Azevedo",
+    "email": "cole.azevedo.dev@gmail.com",
+    "url": "https://github.com/cole-gamedev"
+  },
+  "keywords": ["unity", "package", "editor", "tool", "subtitle"],
+  "license": "MIT"
+}
